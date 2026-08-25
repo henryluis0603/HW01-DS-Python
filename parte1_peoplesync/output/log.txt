@@ -1,4 +1,32 @@
 Total: 50
-Exitosos: 50
+Exitosos: 24
+Omitidos: 26
 Fallidos: 0
 
+── Omitidos por inconsistencia de género ──
+  Registro 4 - Ríos Carrasco, Luis: Género 'No binario' no disponible en el formulario
+  Registro 6 - Herrera Martínez, Alejandro: Género 'No binario' no disponible en el formulario
+  Registro 9 - Díaz Cabrera, Gustavo: Género 'No binario' no disponible en el formulario
+  Registro 11 - Ríos García, Alberto: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 14 - Reyes Delgado, Cecilia: Género 'No binario' no disponible en el formulario
+  Registro 15 - Chávez Castillo, Andrés: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 17 - Bravo Cárdenas, Roberto: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 19 - Martínez Vásquez, Roberto: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 20 - Rojas Salazar, Verónica: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 21 - Vargas Medina, Eduardo: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 22 - Espinoza Ramírez, Elena: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 23 - Ponce Chávez, Andrés: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 28 - Vásquez Núñez, Alberto: Género 'No binario' no disponible en el formulario
+  Registro 29 - Núñez Torres, Pilar: Género 'No binario' no disponible en el formulario
+  Registro 31 - Herrera Ramírez, Roberto: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 33 - Gómez Mendoza, José: Género 'No binario' no disponible en el formulario
+  Registro 34 - Cabrera Gómez, Teresa: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 36 - Díaz Vargas, Milagros: Género 'No binario' no disponible en el formulario
+  Registro 37 - Rojas Delgado, Pablo: Género 'No binario' no disponible en el formulario
+  Registro 38 - Sánchez Medina, Alberto: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 41 - Ríos Espinoza, Diego: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 42 - Mendoza Chávez, Gabriela: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 44 - Carrasco Ríos, Ana: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 45 - Huamán Aguilar, Carlos: Género 'Prefiero no indicar' no disponible en el formulario
+  Registro 46 - Guerrero Rodríguez, Silvia: Género 'No binario' no disponible en el formulario
+  Registro 48 - Mamani Paredes, María: Género 'Prefiero no indicar' no disponible en el formulario
