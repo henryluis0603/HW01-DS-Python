@@ -8,6 +8,7 @@
 
 ## Estructura del repositorio
 
+```
 HW01-DS-Python/
 ├── parte1_peoplesync/
 │   ├── bot_peoplesync.py
@@ -29,7 +30,7 @@ HW01-DS-Python/
 │       └── rating_tiempo.png
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## Parte 1 — RPA PeopleSync
