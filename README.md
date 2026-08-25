@@ -140,10 +140,13 @@ DRY_RUN=False python parte3_lichess/torneos.py
 
 ## Variables de entorno
 
-Copia `.env.example` a `.env` y completa los valores:
+El archivo `.env.example` está en `parte3_lichess/`. Copia y renómbralo como `.env` en la misma carpeta:
+
 ```bash
 cp parte3_lichess/.env.example parte3_lichess/.env
 ```
+
+Luego edita `parte3_lichess/.env` y pon tu token de Lichess: LICHESS_TOKEN=tu_token_aqui
 
 **Nunca subas el archivo `.env` al repositorio.**
 
