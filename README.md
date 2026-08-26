@@ -162,3 +162,4 @@ Las partes 1 y 2 están configuradas para ejecutarse automáticamente con Window
 4. Verificar que el intérprete de Python sea el correcto
 
 Ver evidencia de configuración en el video de presentación.
+LINK: https://drive.google.com/drive/folders/1200g-nzm2lyiC0dFbROkhaLZbd_RQgRA?usp=sharing
