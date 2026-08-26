@@ -1,8 +1,7 @@
 # HW01 — Automatización, APIs y Análisis de Datos
 **Curso:** Data Science con Python — Universidad del Pacífico (2026-02)  
-**Estudiante:** Henry Luis Capunay  
+**Estudiante:** Henry Llupton 
 **Issue:** [#181](https://github.com/d2cml-ai/Data-Science-Python/issues/181)  
-**Deadline:** 26 de agosto de 2026
 
 ---
 
