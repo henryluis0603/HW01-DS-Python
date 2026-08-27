@@ -160,6 +160,3 @@ Las partes 1 y 2 están configuradas para ejecutarse automáticamente con Window
 2. Configurar el trigger (diario / semanal según el caso)
 3. En Acción: `python.exe` con argumento la ruta absoluta al script
 4. Verificar que el intérprete de Python sea el correcto
-
-Ver evidencia de configuración en el video de presentación.
-LINK: https://drive.google.com/drive/folders/1200g-nzm2lyiC0dFbROkhaLZbd_RQgRA?usp=sharing
